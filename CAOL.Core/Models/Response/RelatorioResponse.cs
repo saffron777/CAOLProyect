@@ -15,7 +15,7 @@ namespace CAOL.Core.Models.Response
         public float comissao_cn { get; set; }
         public float brut_salario { get; set; }
     }
-   
+    
 
     public class RelatorioViewModel: ConsultoresResponse
     {
